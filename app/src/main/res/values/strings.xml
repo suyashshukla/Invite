@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Invite</string>
+    <string name="invite"><b>Respected Sir/Madam,</b>\nWe are conducting an Android App Development workshop this Friday
+        from 1100hrs to 1700hrs.\nWe\'ll be honored if you can be a part of that and thus are
+        inviting you for the same.\nPlease tap on the Android Logo below to accept our invitation.</string>
+    <string name="sms">Thank you for accepting our invitation. We assure you that it will turn out to be a great workshop in your presence.\n
+    Regards RJITGEEKS</string>
+    <string name="mca">9425113919</string>
+    <string name="mpr">9406576108</string>
+    <string name="m1">9425757684</string>
+    <string name="m2">9425360281</string>
+    <string name="m3">9753430660</string>
+    <string name="m4">8435369808</string>
+    <string name="m5">9584488077</string>
+    <string name="m6">8823872288</string>
+    <string name="m7">9425813639</string>
+    <string name="m8">9981428833</string>
+    <string name="m9">9893892193</string>
+    <string name="m10">9827549919</string>
+    <string name="m11">9893273190</string>
+    <string name="m12">9575142307</string>
+    <string name="m13">7898989155</string>
+    <string name="m14">aradhana298@gmail.com</string>
+    <string name="m15">9754898977</string>
+    <string name="m16">9755615357</string>
+    <string name="m17">7508243631</string>
+    <string name="m18">8305758105</string>
+
+
+    <string name="ca">Mukesh Tyagi Sir</string>
+    <string name="pr">Arvind Jain Sir</string>
+    <string name="n1">Dr. Kamlesh Gupta</string>
+    <string name="n2">Dr. Jagdish Makhijani</string>
+    <string name="n3">Janaki Sharan Pahareeya Sir</string>
+    <string name="n4">Arvind Sharma Sir</string>
+    <string name="n5">Yograj Sharma Sir</string>
+    <string name="n6">Kirti Raj Bhatele Sir</string>
+    <string name="n7">Vivek Gupta Sir</string>
+    <string name="n8">Prashant Kumar Srivastava Sir</string>
+    <string name="n9">Anand Jha Sir</string>
+    <string name="n10">Sanjay Patsariya Sir</string>
+    <string name="n11">Yashwant Pathak Sir</string>
+    <string name="n12">Ashish Sir</string>
+    <string name="n13">Sharad Sir</string>
+    <string name="n14">Aradhna Saxena Ma\'am</string>
+    <string name="n15">Sugandha Rathi Ma\'am</string>
+    <string name="n16">Saba Khan Ma\'am</string>
+    <string name="n17">Uma Bharti Ma\'am</string>
+    <string name="n18">Soumya Bajpai Ma\'am</string>
+
+</resources>
